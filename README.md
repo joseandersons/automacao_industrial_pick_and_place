@@ -70,4 +70,9 @@ Implementar, em Ladder (TIA Portal), o controle de uma célula **Pick & Place**:
    - Inicie o cenário, pressione **Start** no painel.
    - Use **Stop/Reset/E-Stop** quando necessário.
    - Verifique a sequência pelos estados (000→700) e pelas luzes.
+  
+## Resultado
+https://github.com/user-attachments/assets/67ef3c1e-4b28-496f-ab52-3e2d1c2d705f
+
+
 
